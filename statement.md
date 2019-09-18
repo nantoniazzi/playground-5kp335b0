@@ -4,6 +4,7 @@ This Node.js template lets you get started quickly with a simple one-page playgr
 
 ```javascript runnable
 console.log('Hello World!');
+console.log('Hello World2!');
 ```
 
 # Advanced usage
